@@ -1,1 +1,1 @@
-# belajar-repositori-github
+# belajar-repository-github
